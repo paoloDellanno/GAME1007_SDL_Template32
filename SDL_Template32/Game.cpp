@@ -1,7 +1,6 @@
 #include "Game.h"
 #include <iostream>
 #include <SDL_image.h>
-//dsfhakdfgjhadfbajdsfgasdfdaf
 void Game::moveShip()
 {
 	ship.setPosition(mousePosition.x, 500);
